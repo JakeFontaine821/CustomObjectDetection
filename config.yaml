@@ -1,0 +1,19 @@
+path: /Users/eHealth Solution/Desktop/Python/TryingCustomObjectDetection
+train: images
+val: images
+
+# Classes
+names:
+  0: Friendly
+  1: Goblin
+  2: Dave
+  3: Wolf
+  4: Golem
+  5: Fire Dave
+  6: Lightning Dave
+  7: Water Dave
+  8: Big Chunk
+  9: Gronk
+  10: Guardian
+  11: Chief
+  12: Bob
